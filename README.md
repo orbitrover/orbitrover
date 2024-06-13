@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--
 # [GitHub Stats Visualization](https://github.com/orbitrover/github-profile-status)
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
-
+https://github.com/antonkomarev/github-profile-views-counter
 <a href="https://github.com/orbitrover/github-profile-status">
 <img src="https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/languages.svg#gh-dark-mode-only" />
