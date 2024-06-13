@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/languages.svg#gh-light-mode-only)
 <!--
 # [GitHub Stats Visualization](https://github.com/orbitrover/github-profile-status)
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
