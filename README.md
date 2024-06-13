@@ -21,7 +21,7 @@
   <li>
     On a personal note, I am open, candid, and modest. I thrive on sharing knowledge and learning from others, and my passion for technology and programming is unwavering. This blend of technical prowess and personal qualities makes me a valuable asset to any team.
   </li>
-  <li></li>
+ 
 </ul>
 
 <!--
