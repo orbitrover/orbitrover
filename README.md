@@ -14,18 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=orbitrover)
 
-# [GitHub Stats Visualization](https://github.com/orbitrover/github-profile-status)
-
+![](https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/languages.svg#gh-dark-mode-only)
 <!--
+# [GitHub Stats Visualization](https://github.com/orbitrover/github-profile-status)
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-<a href="https://github.com/orbitrover/github-profile-status">
-<img src="https://github.com/orbitrover/github-profile-status/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/orbitrover/github-profile-status/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/orbitrover/github-profile-status/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/orbitrover/github-profile-status/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
 
+<a href="https://github.com/orbitrover/github-profile-status">
+<img src="https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+-->
 
 
