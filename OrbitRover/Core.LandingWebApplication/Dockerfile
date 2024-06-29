@@ -10,7 +10,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["Core.LandingWebApplication/Core.LandingWebApplication.csproj", "Core.LandingWebApplication/"]
-RUN dotnet restore "./Core.LandingWebApplication/Core.LandingWebApplication.csproj"
+RUN dotnet restore "./Core.LandingWebApplication/./Core.LandingWebApplication.csproj"
 COPY . .
 WORKDIR "/src/Core.LandingWebApplication"
 RUN dotnet build "./Core.LandingWebApplication.csproj" -c $BUILD_CONFIGURATION -o /app/build
