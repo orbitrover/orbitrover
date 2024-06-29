@@ -1,0 +1,20 @@
+﻿.orbit
+{
+        color: rgba(255, 214, 0, 0.91);
+    font-family: sans-serif;
+    font-size: x-large;
+}
+.bg-black
+{
+   background-color: #262626;
+   border:none;
+   color: #FFF; 
+}
+.txt-white{color:#fff;}
+.mdl-pd
+{
+        width: 100%;
+    padding: 20px 45px 0px 45px;
+}
+
+
