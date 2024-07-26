@@ -12,7 +12,7 @@
     </a>
   </div>
   
-Hey, I am an Engineering Lead and a Fullstack Developer <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"> based in Noida, India.
+Hey, I am a Principal Software Engineer and a Fullstack Developer <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"> based in Noida, India.
 
 I have over 10 years of experience working mostly with startups and scaleups. I am a seasoned leader, having led teams of all sizes and shapes with a strong focus on building high-performing teams and delivering high-quality products.
 
