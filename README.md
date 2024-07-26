@@ -17,6 +17,7 @@ Hey, I am an Engineering Lead and a Fullstack Developer <img src="https://camo.g
 I have over 10 years of experience working mostly with startups and scaleups. I am a seasoned leader, having led teams of all sizes and shapes with a strong focus on building high-performing teams and delivering high-quality products.
 
 I am also a Asp Net Core Developre/Expert and a GitHub User. I am a huge fan of open-source and have built projects for public use as common libraries.
+<!--Complete Intro
 <ul>
   <li>
     With a solid decade of experience in software development, I bring a wealth of knowledge and a diverse skill set to the table. My expertise spans across ASP.NET Core, Core API, ASP.NET MVC, Web API2, ASP.NET, WCF, JavaScript, jQuery, and Angular-JS. I also excel in UI designing, leveraging HTML5, CSS3, and Bootstrap along with well-known JQuery-UI for server-side customization. My proficiency extends to supporting tools and languages like Data-Table-JS, Chart-JS, and JQ-grid.
@@ -41,7 +42,7 @@ I am also a Asp Net Core Developre/Expert and a GitHub User. I am a huge fan of 
   </li>
  
 </ul>
-
+-->
 🛠️ Languages and Tools :
 <div dir="auto">
   <!--Programming Languages-->
