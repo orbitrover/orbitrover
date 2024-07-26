@@ -84,6 +84,7 @@ I am also a Asp Net Core Developre/Expert and a GitHub User. I am a huge fan of 
 ![](https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/orbitrover/github-profile-status/master/generated/languages.svg#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=orbitrover&amp;theme=tokyonight&amp;show_icons=true#gh-dark-mode-only)
 <!--
 **orbitrover/orbitrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
