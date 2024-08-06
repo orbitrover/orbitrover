@@ -16,7 +16,7 @@ Hey, I am a Lead Software Engineer and a Fullstack Developer <img src="https://c
 
 I have over 10 years of experience working mostly with startups and scaleups. I am a seasoned leader, having led teams of all sizes and shapes with a strong focus on building high-performing teams and delivering high-quality products.
 
-I am also a Asp Net Core Developre/Expert and a GitHub User. I am a huge fan of open-source and have built projects for public use as common libraries.
+I am also a Asp Net Core Developer/Expert and a GitHub User. I am a huge fan of open-source and have built projects for public use as common libraries.
 <!--Complete Intro
 <ul>
   <li>
