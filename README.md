@@ -2,17 +2,17 @@
 
 <div id="user-content-badges" dir="auto">
     <a href="https://www.linkedin.com/in/orbitrover/" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/73d7f9030632789d857cd7bb543d9cb9bada0672f246b6008258864452f17988/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
     </a>
     <a href="https://twitter.com/orbitrover" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/344871562459b446020edfad3758f2eaec8aa08d332bf52413055b03bb056b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
     </a>
     <a href="https://orbit-rover-com.onrender.com" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/35656ca29a2b7cb5cdb69d5929dde18ba6ff781d40c5206ca39fe59b4769b638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c6f672d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d626c6f67676572266c6f676f436f6c6f723d7768697465" alt="Blog Badge" data-canonical-src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&amp;logo=blogger&amp;logoColor=white" style="max-width: 100%;">
+      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&amp;logo=blogger&amp;logoColor=white" alt="Blog Badge" data-canonical-src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&amp;logo=blogger&amp;logoColor=white" style="max-width: 100%;">
     </a>
   </div>
   
-Hey, I am a Lead Software Engineer and a Fullstack Developer <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"> based in Noida, India.
+Hey, I am a Lead Software Engineer and a Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"> based in Noida, India.
 
 I have over 10 years of experience working mostly with startups and scaleups. I am a seasoned leader, having led teams of all sizes and shapes with a strong focus on building high-performing teams and delivering high-quality products.
 
